@@ -1,7 +1,0 @@
-name: AutoBroadcaster
-main: TBN\AutoBroadcaster\AutoBroadcaster
-version: 1.0.0
-author: TBN
-depend: []
-api: [5.0.0]
-description: A simple announcement plugin for PocketMine-MP. 
